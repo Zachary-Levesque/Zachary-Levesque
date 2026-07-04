@@ -15,7 +15,7 @@ I love building functional systems: from custom C++ tensor engines to regime-awa
  
 **[Sports Strategy Engine](https://github.com/Zachary-Levesque/Sports-Strategy-Engine)** — Monte Carlo decision engine for golf strategy optimization under uncertainty, with a full-stack visual course editor.
  
-*More projects on my [repositories page](https://github.com/Zachary-Levesque?tab=repositories).*
+**More projects on my [repositories page](https://github.com/Zachary-Levesque?tab=repositories).**
 ---
  
 ### 🚀 Seets
