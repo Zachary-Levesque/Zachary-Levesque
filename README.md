@@ -1,5 +1,5 @@
 # Zachary Levesque
-**EE + Physics @ uOttawa ** · Systems Engineer Intern @ Ranovus · Co-Founder & CEO @ Seets
+** EE + Physics @ uOttawa ** · Systems Engineer Intern @ Ranovus · Co-Founder & CEO @ Seets
  
 I love building functional systems: from custom C++ tensor engines to regime-aware trading strategies. Currently interning at Ranovus and running my own tech startup, Seets. 
 
