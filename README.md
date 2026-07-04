@@ -1,4 +1,4 @@
-#Zachary Levesque
+# Zachary Levesque
 **EE + Physics @ uOttawa (Systems Engineering)** · Systems Engineer Intern @ Ranovus · Co-Founder & CEO @ Seets
  
 I build low-level systems and quantitative models — from custom C++ tensor engines to regime-aware trading strategies. Currently interning at Ranovus, running Seets, and aiming for systems/quant roles at companies like NVIDIA, Google, Cloudflare, and Databricks.
