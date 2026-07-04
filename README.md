@@ -5,19 +5,17 @@ I love building functional systems: from custom C++ tensor engines to regime-awa
 
 ---
  
-### 🔧 Featured Projects
+### Featured Projects
  
-**[Mini Tensor Engine](https://github.com/Zachary-Levesque/Mini-Tensor-Engine)**
-High-performance C++ inference engine with a custom tensor implementation, AVX2 SIMD-accelerated tiled matrix multiplication, multithreading, and int8 quantization.
-- `[X]x speedup` over naive matmul baseline after SIMD + tiling optimizations
-- Benchmarked against Python/NumPy baselines for correctness and throughput
-**[Adaptive Market Regime Framework](https://github.com/Zachary-Levesque/Adaptive-Market-Regime-Framework)**
-Research-grade quantitative trading system that detects market regimes via Hidden Markov Models and deploys regime-specific ML strategies, with a reinforcement learning agent for position sizing.
-- `[Backtest Sharpe / return / drawdown metric here]`
-- Combines unsupervised regime detection with supervised strategy selection and RL-based capital allocation
-**[Sports Strategy Engine](https://github.com/Zachary-Levesque/Sports-Strategy-Engine)**
-Decision engine for strategy optimization under uncertainty using Monte Carlo simulation and probabilistic modeling, applied to golf decision-making.
-- `[Key result — e.g. simulation count, decision accuracy vs. baseline]`
+**[Mini Tensor Engine](https://github.com/Zachary-Levesque/Mini-Tensor-Engine)** — C++ inference runtime with AVX2 SIMD matmul and int8 quantization. `3.37x` speedup over naive at 1024³, `3.44x` further with int8.
+ 
+**[Adaptive Market Regime Framework](https://github.com/Zachary-Levesque/Adaptive-Market-Regime-Framework)** — HMM-based regime detection with RL position sizing. `1.09 Sharpe` vs `0.95` for SPY, with a lower max drawdown (`-20.7%` vs `-31.2%`).
+ 
+**[Real-Time Trading System](https://github.com/Zachary-Levesque/Real-Time-Trading-System)** — Full-stack platform turning live market data into explainable BUY/HOLD/SELL signals via FastAPI, React, PostgreSQL, and Redis.
+ 
+**[Sports Strategy Engine](https://github.com/Zachary-Levesque/Sports-Strategy-Engine)** — Monte Carlo decision engine for golf strategy optimization under uncertainty, with a full-stack visual course editor.
+ 
+*More projects on my [repositories page](https://github.com/Zachary-Levesque?tab=repositories).*
 ---
  
 ### 🚀 Seets
