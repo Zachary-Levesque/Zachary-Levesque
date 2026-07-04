@@ -18,13 +18,13 @@ I love building functional systems: from custom C++ tensor engines to regime-awa
 **More projects on my [repositories page](https://github.com/Zachary-Levesque?tab=repositories).**
 ---
  
-### 🚀 Seets
+### Seets
  
 Co-founded and lead engineering at **Seets** as CEO. `[One or two sentences: what Seets does, who it's for, and your role — e.g. "Seets is a [product] helping [audience] do [thing]. I lead product and engineering, architecting the system end-to-end."]`
  
 ---
  
-### 🛠️ Tech Stack
+### Tech Stack
  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -35,6 +35,7 @@ Co-founded and lead engineering at **Seets** as CEO. `[One or two sentences: wha
  
 ---
  
-### 📫 Reach me
+### Reach me
  
-[LinkedIn](https://www.linkedin.com/in/zachary-levesque/) · Portfolio: `[link once built]`
+- [LinkedIn](https://www.linkedin.com/in/zachary-levesque/)
+- Portfoli0
