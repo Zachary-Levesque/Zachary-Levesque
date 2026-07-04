@@ -7,20 +7,20 @@ I love building functional systems: from custom C++ tensor engines to regime-awa
  
 ### Featured Projects
  
-**[Mini Tensor Engine](https://github.com/Zachary-Levesque/Mini-Tensor-Engine)** — C++ inference runtime with AVX2 SIMD matmul and int8 quantization. `3.37x` speedup over naive at 1024³, `3.44x` further with int8.
+**[Mini Tensor Engine](https://github.com/Zachary-Levesque/Mini-Tensor-Engine)**: C++ inference runtime with AVX2 SIMD matmul and int8 quantization. `3.37x` speedup at 1024³, `3.44x` further with int8.
  
-**[Adaptive Market Regime Framework](https://github.com/Zachary-Levesque/Adaptive-Market-Regime-Framework)** — HMM-based regime detection with RL position sizing. `1.09 Sharpe` vs `0.95` for SPY, with a lower max drawdown (`-20.7%` vs `-31.2%`).
+**[Adaptive Market Regime Framework](https://github.com/Zachary-Levesque/Adaptive-Market-Regime-Framework)**: HMM-based regime detection with RL position sizing. `1.09 Sharpe` vs `0.95` for SPY, with a lower max drawdown (`-20.7%` vs `-31.2%`).
  
-**[Real-Time Trading System](https://github.com/Zachary-Levesque/Real-Time-Trading-System)** — Full-stack platform turning live market data into explainable BUY/HOLD/SELL signals via FastAPI, React, PostgreSQL, and Redis.
+**[Real-Time Trading System](https://github.com/Zachary-Levesque/Real-Time-Trading-System)**: Full-stack platform turning live market data into explainable BUY/HOLD/SELL signals via FastAPI, React, PostgreSQL, and Redis.
  
-**[Sports Strategy Engine](https://github.com/Zachary-Levesque/Sports-Strategy-Engine)** — Monte Carlo decision engine for golf strategy optimization under uncertainty, with a full-stack visual course editor.
+**[Sports Strategy Engine](https://github.com/Zachary-Levesque/Sports-Strategy-Engine)**: Monte Carlo decision engine for golf strategy optimization under uncertainty, with a full-stack visual course editor.
  
 **More projects on my [repositories page](https://github.com/Zachary-Levesque?tab=repositories).**
 ---
  
 ### Seets
 
-Co-founded and lead engineering at **Seets**, a real-time seat occupancy platform for university libraries. ESP32 IoT sensors report live seat and noise data over MQTT to a FastAPI/PostgreSQL backend, which streams updates to a React frontend showing interactive floor plans, analytics, and admin tooling — currently live at [seets.live](https://seets.live). As CEO, I lead product and architecture end-to-end, from embedded firmware through backend, frontend, and infrastructure.
+Co-founded and lead engineering at **Seets**, a real-time seat occupancy platform for university libraries. ESP32 IoT sensors report live seat and noise data over MQTT to a FastAPI/PostgreSQL backend, which streams updates to a React frontend showing interactive floor plans, analytics, and admin tooling. Currently live at [seets.live](https://seets.live)! As CEO, I lead product and architecture end-to-end, from embedded firmware through backend, frontend, and infrastructure.
 
 ---
  
@@ -38,4 +38,4 @@ Co-founded and lead engineering at **Seets**, a real-time seat occupancy platfor
 ### Reach me
  
 - [LinkedIn](https://www.linkedin.com/in/zachary-levesque/)
-- Portfolio
+- [Portfolio](https://www.linkedin.com/in/zachary-levesque/)
