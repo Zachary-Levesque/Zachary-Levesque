@@ -19,9 +19,9 @@ I love building functional systems: from custom C++ tensor engines to regime-awa
 ---
  
 ### Seets
- 
-Co-founded and lead engineering at **Seets** as CEO. `[One or two sentences: what Seets does, who it's for, and your role — e.g. "Seets is a [product] helping [audience] do [thing]. I lead product and engineering, architecting the system end-to-end."]`
- 
+
+Co-founded and lead engineering at **Seets**, a real-time seat occupancy platform for university libraries. ESP32 IoT sensors report live seat and noise data over MQTT to a FastAPI/PostgreSQL backend, which streams updates to a React frontend showing interactive floor plans, analytics, and admin tooling — currently live at [seets.live](https://seets.live). As CEO, I lead product and architecture end-to-end, from embedded firmware through backend, frontend, and infrastructure.
+
 ---
  
 ### Tech Stack
@@ -38,4 +38,4 @@ Co-founded and lead engineering at **Seets** as CEO. `[One or two sentences: wha
 ### Reach me
  
 - [LinkedIn](https://www.linkedin.com/in/zachary-levesque/)
-- Portfoli0
+- Portfolio
