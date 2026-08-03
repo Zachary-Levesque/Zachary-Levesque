@@ -10,6 +10,7 @@ I love building functional systems: from custom C++ tensor engines to regime-awa
 **[Mini Tensor Engine](https://github.com/Zachary-Levesque/Mini-Tensor-Engine)**: C++ inference runtime with AVX2 SIMD matmul and int8 quantization. `3.37x` speedup at 1024³, `3.44x` further with int8.
 
 **[Smart Flood Detection System](https://github.com/Zachary-Levesque/Smart-Flood-Detection-System)**: ESP32 C3 Mini flood detector with a custom PCB, Grove I2C water level sensor, local buzzer and LED alarm, Telegram alerts, and fail safe firmware.
+
 **[Adaptive Market Regime Framework](https://github.com/Zachary-Levesque/Adaptive-Market-Regime-Framework)**: HMM-based regime detection with RL position sizing. `1.09 Sharpe` vs `0.95` for SPY, with a lower max drawdown (`-20.7%` vs `-31.2%`).
  
 **[Real-Time Trading System](https://github.com/Zachary-Levesque/Real-Time-Trading-System)**: Full-stack platform turning live market data into explainable BUY/HOLD/SELL signals via FastAPI, React, PostgreSQL, and Redis.
